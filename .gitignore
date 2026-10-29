@@ -1,0 +1,16 @@
+# Sistema / IDE
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# Dependencias / entorno
+vendor/
+node_modules/
+.env
+.env.*
+
+# XAMPP / temporal
+*.tmp
+*.bak
